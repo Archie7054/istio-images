@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64/v8  calico/cni:v3.20.3
+FROM --platform=linux/arm64/v8  coredns/coredns:v1.8.0
